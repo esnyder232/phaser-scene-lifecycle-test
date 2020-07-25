@@ -1,0 +1,1 @@
+This repo is just to test out phaser's lifecycles.
