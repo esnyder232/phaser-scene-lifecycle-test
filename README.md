@@ -1,4 +1,4 @@
-This repo is just to test out phaser's lifecycles for phaser. 
+This repo is just to test out phaser's lifecycles for phaser version 3.23.0. 
 
 I haven't really found a very good tutorial on what EXACTLY happens when you add/stop/start/remove scenes from Phaser.
 This is to see what events ACTUALLY fire when the scene changes state.
